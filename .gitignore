@@ -16,8 +16,12 @@ Release/
 # 安装包输出
 installer_output/
 
-# 第三方工具（版权归属原作者，不开源）
+# 第三方工具数据（版权归属原作者，不开源，不纳入版本控制）
+data/
 x64/Release/data/
 
 # 编译中间目录
 财神科技/
+src/x64/
+src/Debug/
+src/Release/
