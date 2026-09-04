@@ -1,0 +1,23 @@
+# 编译输出
+x64/
+Debug/
+Release/
+
+# VS 生成文件
+*.aps
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.vs/
+
+# 安装包输出
+installer_output/
+
+# 第三方工具（版权归属原作者，不开源）
+x64/Release/data/
+
+# 编译中间目录
+财神科技/
