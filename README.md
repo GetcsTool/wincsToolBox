@@ -12,7 +12,7 @@
 
 ## 截图
 
-![财神工具箱主界面](https://wincstool.cn/cstool.png)
+![财神工具箱主界面](screenshot.png)
 
 ## 下载安装
 
