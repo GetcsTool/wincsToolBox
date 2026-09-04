@@ -12,7 +12,9 @@
 
 ## 截图
 
-![财神工具箱主界面](screenshot.png)
+<p align="center">
+  <img src="screenshot.png" alt="财神工具箱主界面" width="800">
+</p>
 
 ## 下载安装
 
