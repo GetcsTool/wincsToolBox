@@ -6,7 +6,7 @@
 #define MyAppPublisher "财神工具箱"
 #define MyAppURL "https://wincstool.cn"
 #define MyAppExeName "财神工具箱.exe"
-#define BuildDir "x64\Release"
+#define BuildDir "..\src\x64\Release"
 
 [Setup]
 AppId={{8B7C9D2E-3F5A-4E1B-9C6D-7A2E5F8B3C91}
@@ -21,9 +21,9 @@ DefaultDirName={autopf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
 PrivilegesRequired=admin
-OutputDir=installer_output
+OutputDir=..\installer_output
 OutputBaseFilename=财神工具箱_Setup_{#MyAppVersion}
-SetupIconFile=财神科技.ico
+SetupIconFile=..\src\财神科技.ico
 Compression=lzma2/ultra64
 SolidCompression=yes
 WizardStyle=modern
